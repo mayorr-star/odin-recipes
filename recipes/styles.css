@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header h1{
+    margin: 30px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px auto;
+}
+
+.fig-caption{
+    text-align: center;
+}
+
+.ingredients-container, .steps-container{
+    width: 400px;
+    margin: 50px auto;
+}
+
+.ingredients-header, .ingredients, .steps-header, .description{
+    text-align: center;
+}
+
+li{
+    margin: 10px 0;
+}
+
+body{
+    background-color: rgb(123, 255, 34);
+}
